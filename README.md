@@ -70,4 +70,4 @@ Visualize and interpret the results to gain insights from the model's performanc
 - Discuss the implications of the findings in the context of the selected domain.
 
 ## Submission Guidelines:
-Submit a detailed report including code, outputs, and your analysis of the results. The assignment is due by [insert due date here]. Write its markdown version to add to the README file.
+Submit a detailed report including code, outputs, and your analysis of the results.
